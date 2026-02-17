@@ -19,7 +19,7 @@ Para manter a latência abaixo dos 15ms (requisito de performance), é utilizada
 - **Modelo A:** Classificador multi-classe para Estado (Producing, Idle, Downtime).
 - **Modelo B:** Detetor binário de eventos de conclusão de peça.
 
-## 🛠️ Como Executar
+## Como Executar
 
 ### Via Docker 
 1. Build da imagem:
